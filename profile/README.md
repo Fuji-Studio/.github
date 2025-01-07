@@ -5,9 +5,9 @@
 Our team of developers spans across the globe, dedicated to creating powerful Minecraft products and services for everyone! 🌟✨
 
 
-## 🚀 Our Projects
+## 🚀 Our Teams & Projects
 
-### 📝 **Fuji Script**
+### 📝 **[Fuji Script](https://github.com/Fuji-Script)**
 Powerful, open-source scripts for Rise Client, designed to enhance your experience and unlock new possibilities! 🌟✨
 
 
