@@ -1,3 +1,5 @@
+![Banner](profile/a.webp)
+
 # 🌍 **We are Fuji Studio**
 
 Our team of developers spans across the globe, dedicated to creating powerful Minecraft products and services for everyone! 🌟✨
